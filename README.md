@@ -1,6 +1,6 @@
-# Image-Editor
+# Image-Embedder
 
-An editor that allows you to put 32x32 pixels into 1024x1024 pixels / image
+A tools that allows you to put 32x32 pixels into 1024x1024 pixels / image
 
 This application is intended to put custom 32x32 items into a png (growtopia custom items)
 
